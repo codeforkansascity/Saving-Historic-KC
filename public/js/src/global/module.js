@@ -1,0 +1,1 @@
+angular.module('historic.global', ['historic.global.controllers', 'historic.global.directives', 'historic.global.services', 'historic.global.filters']);
